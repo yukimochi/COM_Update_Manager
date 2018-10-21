@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>CM_UM_API</RootNamespace>
+    <Version>2.0.0</Version>
+    <Authors>YUKIMOCHI Laboratory</Authors>
+    <Company>YUKIMOCHI Laboratory</Company>
+    <Product>CUSTOMORDERMAID UPDATE MANAGER APIs</Product>
+    <PackageId></PackageId>
+    <Copyright>Copyright (C) 2018 YUKIMOCHI Laboratory</Copyright>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Quamotion.DiscUtils" Version="1.0.3" />
+  </ItemGroup>
+
+</Project>
