@@ -1,4 +1,6 @@
 # COM Update Manager
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyukimochi%2FCOM_Update_Manager.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyukimochi%2FCOM_Update_Manager?ref=badge_shield)
+
 
 ## 概要
 このツールは、カスタムメイド3D2・カスタムオーダーメイド3D2のDLC,プラグイン,アップデートを1つにまとめて、インストールファイルの軽量化と手間の軽減を図るソフトウェアです。
@@ -28,3 +30,7 @@ SP+メーカー([A.K.Office]( http://www.ak-office.jp/software/winsppm.html)様)
 ## 取得
 - GitHub release からダウンロードします。
 - 書庫を解凍し、 COM-UM-WPFUI.exe を実行します。
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyukimochi%2FCOM_Update_Manager.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyukimochi%2FCOM_Update_Manager?ref=badge_large)
